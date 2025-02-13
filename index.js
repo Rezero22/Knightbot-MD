@@ -1,5 +1,5 @@
 /**
- * Knight Bot - A WhatsApp Bot
+ * NEOSYNE-BOT - A WhatsApp Bot
  * Copyright (c) 2024 Professor
  * 
  * This program is free software: you can redistribute it and/or modify
@@ -52,7 +52,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "911234567890"
+let phoneNumber = "26775257155"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 global.botname = "KNIGHT BOT"
